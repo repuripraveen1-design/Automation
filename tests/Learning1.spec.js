@@ -20,7 +20,5 @@ import { test, expect } from '@playwright/test';
 
     test('Header Validation', async ({page})=>{
         
-        await page.locator('');
-
         
     })
